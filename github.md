@@ -124,4 +124,4 @@ Giao diện của chương trình:
 ![](image.png)
 
 `git pull`:đồng bộ trên github về visual code.
-
+`echo "github.md" >> README.md`:đổi file trên visual code sang file README.md trên github
